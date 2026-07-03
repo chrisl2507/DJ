@@ -311,19 +311,6 @@ h1, h2, h3 {
   z-index: 0;
 }
 
-.bg-word--md { font-size: clamp(5rem, 14vw, 12rem); }
-
-.bg-word--top {
-  top: 0;
-  transform: translate(-50%, -32%);
-}
-
-.bg-word--bottom {
-  top: auto;
-  bottom: 0;
-  transform: translate(-50%, 32%);
-}
-
 .hero__grid {
   position: relative;
   z-index: 1;
